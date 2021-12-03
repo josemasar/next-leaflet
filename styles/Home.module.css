@@ -114,3 +114,5 @@
     flex-direction: column;
   }
 }
+
+#map { height: 180px; }
